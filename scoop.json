@@ -1,0 +1,86 @@
+{
+  "buckets": [
+    {
+      "Name": "main",
+      "Source": "https://github.com/ScoopInstaller/Main"
+    },
+    {
+      "Name": "extras",
+      "Source": "https://github.com/ScoopInstaller/Extras"
+    },
+    {
+      "Name": "nerd-fonts",
+      "Source": "https://github.com/matthewjberger/scoop-nerd-fonts"
+    },
+    {
+      "Name": "docket",
+      "Source": "https://github.com/dorian-li/docket"
+    }
+  ],
+  "apps": [
+    {
+      "Name": "7zip",
+      "Source": "main"
+    },
+    {
+      "Name": "aria2",
+      "Source": "main"
+    },
+    {
+      "Name": "ddns-go",
+      "Source": "docket"
+    },
+    {
+      "Name": "FiraCode-NF-Mono",
+      "Source": "nerd-fonts"
+    },
+    {
+      "Name": "fnm",
+      "Source": "main"
+    },
+    {
+      "Name": "gh",
+      "Source": "main"
+    },
+    {
+      "Name": "git",
+      "Source": "main"
+    },
+    {
+      "Name": "jid",
+      "Source": "main"
+    },
+    {
+      "Name": "jq",
+      "Source": "main"
+    },
+    {
+      "Name": "Maple-Mono-NF-CN",
+      "Source": "nerd-fonts"
+    },
+    {
+      "Name": "oh-my-posh",
+      "Source": "main"
+    },
+    {
+      "Name": "openhardwaremonitor",
+      "Source": "extras"
+    },
+    {
+      "Name": "ripgrep",
+      "Source": "main"
+    },
+    {
+      "Name": "win32yank",
+      "Source": "main"
+    },
+    {
+      "Name": "yt-dlp",
+      "Source": "main"
+    },
+    {
+      "Name": "zlocation",
+      "Source": "extras"
+    }
+  ]
+}
