@@ -9,12 +9,16 @@
       "Source": "https://github.com/ScoopInstaller/Extras"
     },
     {
+      "Name": "versions",
+      "Source": "https://github.com/ScoopInstaller/Versions"
+    },
+    {
       "Name": "nerd-fonts",
       "Source": "https://github.com/matthewjberger/scoop-nerd-fonts"
     },
     {
       "Name": "docket",
-      "Source": "https://github.com/dorian-li/docket"
+      "Source": "https://github.com/dyuu7/docket"
     }
   ],
   "apps": [
@@ -27,8 +31,28 @@
       "Source": "main"
     },
     {
+      "Name": "claude-code",
+      "Source": "main"
+    },
+    {
+      "Name": "codex",
+      "Source": "main"
+    },
+    {
       "Name": "ddns-go",
       "Source": "docket"
+    },
+    {
+      "Name": "ds4windows",
+      "Source": "extras"
+    },
+    {
+      "Name": "Fanhuaji",
+      "Source": "docket"
+    },
+    {
+      "Name": "ffmpeg-yt-dlp-nightly",
+      "Source": "versions"
     },
     {
       "Name": "FiraCode-NF-Mono",
@@ -37,6 +61,14 @@
     {
       "Name": "fnm",
       "Source": "main"
+    },
+    {
+      "Name": "FontLoaderSub",
+      "Source": "docket"
+    },
+    {
+      "Name": "foobox-cn",
+      "Source": "docket"
     },
     {
       "Name": "gh",
@@ -59,7 +91,15 @@
       "Source": "nerd-fonts"
     },
     {
+      "Name": "microsoft-coreutils",
+      "Source": "main"
+    },
+    {
       "Name": "oh-my-posh",
+      "Source": "main"
+    },
+    {
+      "Name": "opencode",
       "Source": "main"
     },
     {
@@ -68,6 +108,14 @@
     },
     {
       "Name": "ripgrep",
+      "Source": "main"
+    },
+    {
+      "Name": "steamcmd",
+      "Source": "extras"
+    },
+    {
+      "Name": "uv",
       "Source": "main"
     },
     {

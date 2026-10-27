@@ -5,7 +5,34 @@
     {
       "Packages": [
         {
+          "PackageIdentifier": "Aegisub.Aegisub"
+        },
+        {
+          "PackageIdentifier": "appmakes.Typora"
+        },
+        {
           "PackageIdentifier": "AutoHotkey.AutoHotkey"
+        },
+        {
+          "PackageIdentifier": "Baidu.BaiduNetdisk"
+        },
+        {
+          "PackageIdentifier": "Bitwarden.Bitwarden"
+        },
+        {
+          "PackageIdentifier": "Blizzard.BattleNet"
+        },
+        {
+          "PackageIdentifier": "Bruno.Bruno"
+        },
+        {
+          "PackageIdentifier": "ch.LosslessCut"
+        },
+        {
+          "PackageIdentifier": "chen08209.FlClash"
+        },
+        {
+          "PackageIdentifier": "CrystalDewWorld.CrystalDiskInfo"
         },
         {
           "PackageIdentifier": "DigitalScholar.Zotero"
@@ -14,16 +41,46 @@
           "PackageIdentifier": "Docker.DockerDesktop"
         },
         {
+          "PackageIdentifier": "EpicGames.EpicGamesLauncher"
+        },
+        {
+          "PackageIdentifier": "farion1231.CC-Switch"
+        },
+        {
+          "PackageIdentifier": "GIMP.GIMP.3"
+        },
+        {
           "PackageIdentifier": "Google.Chrome"
+        },
+        {
+          "PackageIdentifier": "HandBrake.HandBrake"
         },
         {
           "PackageIdentifier": "JetBrains.PyCharm.Community"
         },
         {
+          "PackageIdentifier": "JohannesMillan.superProductivity"
+        },
+        {
+          "PackageIdentifier": "Kingsoft.WPSOffice.CN"
+        },
+        {
           "PackageIdentifier": "LibreHardwareMonitor.LibreHardwareMonitor"
         },
         {
+          "PackageIdentifier": "LocalSend.LocalSend"
+        },
+        {
+          "PackageIdentifier": "M2Team.NanaZip"
+        },
+        {
+          "PackageIdentifier": "Microsoft.OneDrive"
+        },
+        {
           "PackageIdentifier": "Microsoft.PowerShell"
+        },
+        {
+          "PackageIdentifier": "Microsoft.PowerToys"
         },
         {
           "PackageIdentifier": "Microsoft.VisualStudioCode"
@@ -35,13 +92,64 @@
           "PackageIdentifier": "Mozilla.Thunderbird.zh-CN"
         },
         {
+          "PackageIdentifier": "mpv.net"
+        },
+        {
+          "PackageIdentifier": "NetEase.UURemote"
+        },
+        {
           "PackageIdentifier": "Notepad++.Notepad++"
+        },
+        {
+          "PackageIdentifier": "Notion.Notion"
         },
         {
           "PackageIdentifier": "OBSProject.OBSStudio"
         },
         {
+          "PackageIdentifier": "PicGo.PicGo.Beta"
+        },
+        {
+          "PackageIdentifier": "qBittorrent.qBittorrent"
+        },
+        {
+          "PackageIdentifier": "qishibo.AnotherRedisDesktopManager"
+        },
+        {
+          "PackageIdentifier": "qwqcode.SubRenamer"
+        },
+        {
           "PackageIdentifier": "REALiX.HWiNFO"
+        },
+        {
+          "PackageIdentifier": "Rufus.Rufus"
+        },
+        {
+          "PackageIdentifier": "Scighost.Starward"
+        },
+        {
+          "PackageIdentifier": "Telegram.TelegramDesktop"
+        },
+        {
+          "PackageIdentifier": "Tencent.QQ.NT"
+        },
+        {
+          "PackageIdentifier": "Tencent.QQMusic"
+        },
+        {
+          "PackageIdentifier": "Tencent.TencentMeeting"
+        },
+        {
+          "PackageIdentifier": "Tencent.WeChat.Universal"
+        },
+        {
+          "PackageIdentifier": "Tonec.InternetDownloadManager"
+        },
+        {
+          "PackageIdentifier": "Valve.Steam"
+        },
+        {
+          "PackageIdentifier": "Yerong.OfficeToolPlus"
         }
       ],
       "SourceDetails": {
@@ -49,6 +157,25 @@
         "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
         "Name": "winget",
         "Type": "Microsoft.PreIndexed.Package"
+      }
+    },
+    {
+      "Packages": [
+        {
+          "PackageIdentifier": "XP8LZ3XFW0JQLZ"
+        },
+        {
+          "PackageIdentifier": "XP98VJJHF42L48"
+        },
+        {
+          "PackageIdentifier": "XPDNH1FMW7NB40"
+        }
+      ],
+      "SourceDetails": {
+        "Argument": "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
+        "Identifier": "StoreEdgeFD",
+        "Name": "msstore",
+        "Type": "Microsoft.Rest"
       }
     }
   ],
